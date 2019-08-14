@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://endless-progress.com"
 languageCode = "ja"
 title = "endless progress"
 theme = "hugo-swift-theme"
