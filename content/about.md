@@ -1,7 +1,8 @@
 +++
 title = "About Me"
 date = "2019-08-14"
+image = "about.jpg"
 +++
 
-- 競プロ
-- Switch
+- AtCoder
+  - https://atcoder.jp/users/erbowl
