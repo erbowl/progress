@@ -4,4 +4,5 @@ date = "2019-08-14"
 image = 'read.jpg'
 +++
 
-エンジニア。
+- 競プロ
+- Switch
