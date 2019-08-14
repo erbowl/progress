@@ -1,4 +1,4 @@
-for pngFile in static/images/*
+for pngFile in static/images/*.jpg
 do
     echo "start converting "$pngFile
     base=`basename $pngFile .jpg`
