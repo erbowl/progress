@@ -2,6 +2,6 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 tags: ["", ""]
-image: '1.jpg'
+image: '1.webp'
 ---
 
