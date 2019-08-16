@@ -9,6 +9,8 @@ image = "about.webp"
   - https://atcoder.jp/users/erbowl
 - Twitter
   - https://twitter.com/erb_owl
+- Qiita
+  - https://qiita.com/erb_owl 
 
 ## 目標
 他の人が見たときに自分も頑張ろうと思えるくらい進捗を生み続けることを示せるようなブログを書くこと
