@@ -15,3 +15,5 @@
 # vendor/
 
 resources
+
+.DS_STORE
