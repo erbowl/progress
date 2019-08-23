@@ -2,7 +2,7 @@
 title: 2019年8月14日のprogress
 date: {{ .Date }}
 tags: ["progress"]
-image: '1.webp'
+image: 'progress/1.webp'
 ---
 
 <!-- 序文があってもいいかも -->
